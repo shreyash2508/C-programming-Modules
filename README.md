@@ -2,7 +2,7 @@
 
 A collection of C programming modules that I practice daily to build strong
 fundamentals and problem-solving skills, as part of my preparation for a
-career in hardware engineering.
+career in hardware engineering focusing on RTL Design and frontend related roles.
 
 ## About
 Each module focuses on a specific concept in C. I add new programs regularly
