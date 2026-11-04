@@ -26,3 +26,4 @@ gcc filename.c -o output
 
 ## Goal
 Practice consistently, one program at a time, and get better every day.
+A Hardware Engineering role .
