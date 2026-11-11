@@ -17,7 +17,7 @@ and revisit older ones to improve them.
 - Structures and file handling
 
 ## Structure
-Each folder contains programs for one module, with each file focusing on one
+Each folder contains programs for one Module, with each file focusing on one
 concept or problem.
 
 ## How to Run
