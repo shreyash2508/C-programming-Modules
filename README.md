@@ -1,4 +1,4 @@
-# C Programming Practice
+# C Programming Practice 
 
 A collection of C programming modules that I practice daily to build strong
 fundamentals and problem-solving skills, as part of my preparation for a
